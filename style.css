@@ -1,0 +1,25 @@
+h1, h2, h3 {
+    text-align: center;
+    background-color: yellow;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aqua;
+    color: black;
+    border: 4px;
+    margin: 4px;
+    padding-left: 4px;
+}
+
+p, ol, ul {
+    text-align: center;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: aquamarine;
+}
